@@ -1,0 +1,13 @@
+C:\Users\abdul.kr\Desktop\C# Advanced\Training\Delegates\FuncDelegates\bin\Debug\netcoreapp3.1\FuncDelegates.exe
+C:\Users\abdul.kr\Desktop\C# Advanced\Training\Delegates\FuncDelegates\bin\Debug\netcoreapp3.1\FuncDelegates.deps.json
+C:\Users\abdul.kr\Desktop\C# Advanced\Training\Delegates\FuncDelegates\bin\Debug\netcoreapp3.1\FuncDelegates.runtimeconfig.json
+C:\Users\abdul.kr\Desktop\C# Advanced\Training\Delegates\FuncDelegates\bin\Debug\netcoreapp3.1\FuncDelegates.runtimeconfig.dev.json
+C:\Users\abdul.kr\Desktop\C# Advanced\Training\Delegates\FuncDelegates\bin\Debug\netcoreapp3.1\FuncDelegates.dll
+C:\Users\abdul.kr\Desktop\C# Advanced\Training\Delegates\FuncDelegates\bin\Debug\netcoreapp3.1\FuncDelegates.pdb
+C:\Users\abdul.kr\Desktop\C# Advanced\Training\Delegates\FuncDelegates\obj\Debug\netcoreapp3.1\FuncDelegates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abdul.kr\Desktop\C# Advanced\Training\Delegates\FuncDelegates\obj\Debug\netcoreapp3.1\FuncDelegates.AssemblyInfoInputs.cache
+C:\Users\abdul.kr\Desktop\C# Advanced\Training\Delegates\FuncDelegates\obj\Debug\netcoreapp3.1\FuncDelegates.AssemblyInfo.cs
+C:\Users\abdul.kr\Desktop\C# Advanced\Training\Delegates\FuncDelegates\obj\Debug\netcoreapp3.1\FuncDelegates.csproj.CoreCompileInputs.cache
+C:\Users\abdul.kr\Desktop\C# Advanced\Training\Delegates\FuncDelegates\obj\Debug\netcoreapp3.1\FuncDelegates.dll
+C:\Users\abdul.kr\Desktop\C# Advanced\Training\Delegates\FuncDelegates\obj\Debug\netcoreapp3.1\FuncDelegates.pdb
+C:\Users\abdul.kr\Desktop\C# Advanced\Training\Delegates\FuncDelegates\obj\Debug\netcoreapp3.1\FuncDelegates.genruntimeconfig.cache

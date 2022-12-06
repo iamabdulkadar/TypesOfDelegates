@@ -1,0 +1,13 @@
+C:\Users\abdul.kr\Desktop\C# Advanced\Training\Delegates\ActionDelegates\bin\Debug\netcoreapp3.1\ActionDelegates.exe
+C:\Users\abdul.kr\Desktop\C# Advanced\Training\Delegates\ActionDelegates\bin\Debug\netcoreapp3.1\ActionDelegates.deps.json
+C:\Users\abdul.kr\Desktop\C# Advanced\Training\Delegates\ActionDelegates\bin\Debug\netcoreapp3.1\ActionDelegates.runtimeconfig.json
+C:\Users\abdul.kr\Desktop\C# Advanced\Training\Delegates\ActionDelegates\bin\Debug\netcoreapp3.1\ActionDelegates.runtimeconfig.dev.json
+C:\Users\abdul.kr\Desktop\C# Advanced\Training\Delegates\ActionDelegates\bin\Debug\netcoreapp3.1\ActionDelegates.dll
+C:\Users\abdul.kr\Desktop\C# Advanced\Training\Delegates\ActionDelegates\bin\Debug\netcoreapp3.1\ActionDelegates.pdb
+C:\Users\abdul.kr\Desktop\C# Advanced\Training\Delegates\ActionDelegates\obj\Debug\netcoreapp3.1\ActionDelegates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abdul.kr\Desktop\C# Advanced\Training\Delegates\ActionDelegates\obj\Debug\netcoreapp3.1\ActionDelegates.AssemblyInfoInputs.cache
+C:\Users\abdul.kr\Desktop\C# Advanced\Training\Delegates\ActionDelegates\obj\Debug\netcoreapp3.1\ActionDelegates.AssemblyInfo.cs
+C:\Users\abdul.kr\Desktop\C# Advanced\Training\Delegates\ActionDelegates\obj\Debug\netcoreapp3.1\ActionDelegates.csproj.CoreCompileInputs.cache
+C:\Users\abdul.kr\Desktop\C# Advanced\Training\Delegates\ActionDelegates\obj\Debug\netcoreapp3.1\ActionDelegates.dll
+C:\Users\abdul.kr\Desktop\C# Advanced\Training\Delegates\ActionDelegates\obj\Debug\netcoreapp3.1\ActionDelegates.pdb
+C:\Users\abdul.kr\Desktop\C# Advanced\Training\Delegates\ActionDelegates\obj\Debug\netcoreapp3.1\ActionDelegates.genruntimeconfig.cache

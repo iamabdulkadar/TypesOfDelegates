@@ -1,0 +1,14 @@
+C:\Users\abdul.kr\Desktop\C# Advanced\Training\Delegates\PredicateDelegates\bin\Debug\netcoreapp3.1\PredicateDelegates.exe
+C:\Users\abdul.kr\Desktop\C# Advanced\Training\Delegates\PredicateDelegates\bin\Debug\netcoreapp3.1\PredicateDelegates.deps.json
+C:\Users\abdul.kr\Desktop\C# Advanced\Training\Delegates\PredicateDelegates\bin\Debug\netcoreapp3.1\PredicateDelegates.runtimeconfig.json
+C:\Users\abdul.kr\Desktop\C# Advanced\Training\Delegates\PredicateDelegates\bin\Debug\netcoreapp3.1\PredicateDelegates.runtimeconfig.dev.json
+C:\Users\abdul.kr\Desktop\C# Advanced\Training\Delegates\PredicateDelegates\bin\Debug\netcoreapp3.1\PredicateDelegates.dll
+C:\Users\abdul.kr\Desktop\C# Advanced\Training\Delegates\PredicateDelegates\bin\Debug\netcoreapp3.1\PredicateDelegates.pdb
+C:\Users\abdul.kr\Desktop\C# Advanced\Training\Delegates\PredicateDelegates\obj\Debug\netcoreapp3.1\PredicateDelegates.csproj.AssemblyReference.cache
+C:\Users\abdul.kr\Desktop\C# Advanced\Training\Delegates\PredicateDelegates\obj\Debug\netcoreapp3.1\PredicateDelegates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abdul.kr\Desktop\C# Advanced\Training\Delegates\PredicateDelegates\obj\Debug\netcoreapp3.1\PredicateDelegates.AssemblyInfoInputs.cache
+C:\Users\abdul.kr\Desktop\C# Advanced\Training\Delegates\PredicateDelegates\obj\Debug\netcoreapp3.1\PredicateDelegates.AssemblyInfo.cs
+C:\Users\abdul.kr\Desktop\C# Advanced\Training\Delegates\PredicateDelegates\obj\Debug\netcoreapp3.1\PredicateDelegates.csproj.CoreCompileInputs.cache
+C:\Users\abdul.kr\Desktop\C# Advanced\Training\Delegates\PredicateDelegates\obj\Debug\netcoreapp3.1\PredicateDelegates.dll
+C:\Users\abdul.kr\Desktop\C# Advanced\Training\Delegates\PredicateDelegates\obj\Debug\netcoreapp3.1\PredicateDelegates.pdb
+C:\Users\abdul.kr\Desktop\C# Advanced\Training\Delegates\PredicateDelegates\obj\Debug\netcoreapp3.1\PredicateDelegates.genruntimeconfig.cache
